@@ -1,6 +1,7 @@
 {
   "id": "famouspaintings",
   "name": "Famous Real Paintings",
+  "description": "Famous real paintings brought to Minecraft",
   "paintings": [
     {
       "id": "davinci_mona_lisa",
