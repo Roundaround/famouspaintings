@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/Roundaround/mc-fabric-custom-paintings/refs/heads/main/assets/schema.json",
   "version": "1.0.0",
   "id": "famouspaintings",
   "name": "Famous Real Paintings",
